@@ -1,12 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="57db3d6b-8b6e-4a5f-b88d-eed9077b9244" name="Default Changelist" comment="This is the initial commit for my first webpage" />
+    <list default="true" id="57db3d6b-8b6e-4a5f-b88d-eed9077b9244" name="Default Changelist" comment="This is the second commit for my first webpage" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -54,18 +73,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is the initial commit for my first webpage" />
     <option name="LAST_COMMIT_MESSAGE" value="This is the initial commit for my first webpage" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="459" y="224" key="FileChooserDialogImpl" timestamp="1602546670914">
+    <state x="459" y="224" key="FileChooserDialogImpl" timestamp="1602600403530">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="459" y="224" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1602546670914" />
+    <state x="459" y="224" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1602600403530" />
     <state x="557" y="381" key="Github.ShareDialog" timestamp="1602546214079">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="557" y="381" key="Github.ShareDialog/0.0.1368.872@0.0.1368.872" timestamp="1602546214079" />
+    <state x="586" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602600127142">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="586" y="398" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1368.872@0.0.1368.872" timestamp="1602600127142" />
   </component>
 </project>
